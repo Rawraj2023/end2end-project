@@ -45,4 +45,3 @@ for filepath in list_of_files:
 
 # here will use the file handling
 
-
