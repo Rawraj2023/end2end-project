@@ -7,8 +7,9 @@ git init
 ```
 
 ```
-git add abc.txt
-git add .
+git add abc.txt file
+git add . file
+....
 ```
 ```
 git commit -m "this is my first commit"
